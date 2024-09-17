@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🔭 I’m currently a master student in NYCU.
+- 🌱 I’m currently learning NLP.
 <!--
 **hsuan881119/hsuan881119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
